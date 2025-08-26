@@ -10,7 +10,7 @@ timestamp: "2025-08-27"
 ## Developer
 - **Name**: Jordi
 - **GitHub**: @jordi-stack
-- **Discord**: jordi-stack#0000
+- **Discord**: jordialter
 - **Experience**: A software developer with 5+ years of experience, specializing in full-stack web development and blockchain technology. Proficient in Rust for smart contract development and React/TypeScript for front-end interfaces. Previous work includes contributions to open-source DeFi protocols and building scalable back-end systems for web applications. Passionate about the intersection of gaming and decentralized technology.
 
 ## Project
@@ -81,7 +81,7 @@ Our innovation lies in creating a user-centric, privacy-first marketplace that l
 3.  **Community Building & Education:** Engage with gaming guilds on Discord and Twitter, creating content that explains the benefits of ZK technology for gamers.
 
 ## Contact
-Preferred contact method is via Discord: **jordi-stack#0000**
+Preferred contact method is via Discord: **jordialter**
 
 **Checklist before submitting:**
 - [x] All fields completed
